@@ -1,2 +1,2 @@
 # calculator
-a
+run py main.py
